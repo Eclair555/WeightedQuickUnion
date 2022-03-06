@@ -16,6 +16,7 @@ namespace Percolation
         /// Creates n-by-n grid, with all sites initially blocked
         /// </summary>
         /// <param name="n">size of the grid</param>
+        /// первый комит с изменениями
         public Percolation(int n)
         {
             if (n <= 0)
