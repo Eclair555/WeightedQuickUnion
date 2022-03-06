@@ -16,7 +16,7 @@ namespace Percolation
         /// Creates n-by-n grid, with all sites initially blocked
         /// </summary>
         /// <param name="n">size of the grid</param>
-        /// первый комит с изменениями
+        /// первый комит с изменениями 11
         public Percolation(int n)
         {
             if (n <= 0)
@@ -46,6 +46,7 @@ namespace Percolation
         /// </summary>
         /// <param name="row">row index of the site</param>
         /// <param name="col">column index of the site</param>
+        /// dnjhjq rjvbn c bpvtytybzvb
         public void Open(int row, int col)
         {
             Validate(row, col);
